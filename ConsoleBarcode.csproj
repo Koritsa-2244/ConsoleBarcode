@@ -10,6 +10,7 @@
   <ItemGroup>
     <ProjectReference Include="..\BarcodeLib\BarcodeLib.csproj" />
     <ProjectReference Include="..\BookShowcase\SoundDeviceLib.csproj" />
+    <ProjectReference Include="..\Showcase\ShowcaseLib.csproj" />
   </ItemGroup>
 
 </Project>
